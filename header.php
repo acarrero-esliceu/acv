@@ -17,6 +17,7 @@
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
+                </div>
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item ms-5">
@@ -24,18 +25,18 @@
                             </li>
                             <li class="nav-item ms-3">
                                     <a class="nav-link" href="blog.html">Blog</a>
-                                </li>
-                                <li class="nav-item ms-3">
+                            </li>
+                            <li class="nav-item ms-3">
                                     <a class="nav-link" href="#">Noticias</a>
-                                </li>
-                                <li class="nav-item ms-3">
+                            </li>
+                            <li class="nav-item ms-3">
                                     <a class="nav-link" href="contacto.html">Contacto</a>
-                                </li>
-                                <li class="nav-item ms-3 mt-2">
+                            </li>
+                            <li class="nav-item ms-3 mt-2">
                                     <img src="img/lupa.png" alt="">
-                                </li>
-                            </ul>
-                        </div>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </nav>
         </div>
