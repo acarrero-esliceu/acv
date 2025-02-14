@@ -10,4 +10,9 @@ function acv_add_theme_scripts(){
 
 add_action('wp_enqueue_scripts', 'acv_add_theme_scripts');
 
-?>
+
+function acv_register_my_menu(){
+    register_nav_menu('primary', __('menu de la capçelera'));
+}
+
+add_action('init', 'acv_register_my_menu');
