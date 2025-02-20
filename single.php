@@ -30,42 +30,9 @@
                     </div>
                 </div>
             </div>
-            <div class="ms-4 text-start">
-                <div class="titulo mt-5">
-                    <h3>Why use Input Types?</h3>
-                </div>
-                <div class="descripcion col-12 lh-base">
-                    <p>
-                        By specifying which input type an input field is intended for, your prototype feels much more real.
-                        For example, by specifying that an input field is intended for Email, the browser will let the user know if the email they entered isn’t a valid email address.
-                    </p>
-                    <p>
-                        Design to code, automated
-                        One of the most unique features in Anima is the ability to have live forms inside your design. Anima supports four different input types:
-                        Email, Password, Text, Number. Also, if users have their email stored in their browser data, then the browser will suggest Auto-Complete and enter their full email into the field.
-                    </p>
-                    <p class="pt-4">
-                        Required Feature
-                        Another great new feature is the “required” checkbox. If the field is required, then trying to submit the form without it will present an alert asking the user to fill out the field.
-                    </p>
-                    <p class="pt-4">
-                        How does it work?
-                    </p>
-                    <p>
-                        1. Design your form in Sketch, Adobe XD, or Figma(or use our demo file)
-                    </p>
-                    <p>
-                        2. Choose the wanted field and define its purpose (email, password, etc.) by pressing on the “forms” button
-                    </p>
-                    <p>
-                        3. Export your form to HTML or CSS in one single click and see the magic
-                    </p>
-                    <p>
-                        When you’re done designing your form, you can publish it or export your page to working HTML and CSS code.
-                    </p>
-                </div>
-            </div>
-        </div>
+            
+        
+
         <div class="container p-default2">
             <div class="row align-items-start g-5 justify-content-center">
                 <div class="text-start border-top border-light-subtle border-3 padingtop">
