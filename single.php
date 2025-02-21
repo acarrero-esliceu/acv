@@ -6,7 +6,7 @@
             <div class="col-md-12 titulo ms-4 row text-start">
                 <h1>Better Forms with Input Types, Auto-Complete, and Validation</h1>
                 <div class="col-1 mt-3">
-                    <img class="border-radius" src="img/autor.png" alt="">
+                    <img class="border-radius" src="/wp-content/themes/acv/img/autor.png" alt="">
                 </div>
                 <div class="texto-gris mt-3 col-11">
                     <p>Lorenzo Hamers | Product designer</p>
