@@ -1,7 +1,7 @@
 <?php get_header() ?>
-        <div class="col-md-8 offset-md-2 p-default row">
+        <div class="container mx-auto p-default">
             <div class="col-md-12 row texto-gris ms-4 mb-5 text-start">
-                <a class="text-decoration-none texto-gris" href="index.html">⭠back</a>
+                <a class="text-decoration-none texto-gris" href="index.php">⭠back</a>
             </div>
             <div class="col-md-12 titulo ms-4 row text-start">
                 <h1>Better Forms with Input Types, Auto-Complete, and Validation</h1>
@@ -18,7 +18,7 @@
             </div>
             <div class="col-md-12 ms-4 row text-start">
                 <div class="mt-3 texto-gris col-12 col-md-8">
-                    <p>Hotspot Hints Help Guide Users Navigate Through a Prototype, Anima allows designers to create high-fidelity prototypes inside Sketch, Adobe XD, and Figma, and export HTML & CSS. [...]</p>
+                    <p>Hotspot Hints Help Guide Users Navigate Through a Prototype, Anima allows designers to create high-fidelity prototypes inside Sketch, Adobe XD, and Figma, and export HTML & CSS.[...]
                 </div>
                 <div class="col-12 col-md-3 ms-md-5 mt-3 mt-md-0">
                     <div class="row">
@@ -30,8 +30,7 @@
                     </div>
                 </div>
             </div>
-            
-        
+        </div>
 
         <div class="container p-default2">
             <div class="row align-items-start g-5 justify-content-center">
