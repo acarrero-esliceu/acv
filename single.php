@@ -14,7 +14,16 @@
                 </div>
             </div>
             <div class="col-md-12 mt-5 ps-4 title-description ms-2 mb-5 text-start">
-                <img class="mt-4 mb-5 img-fluid" src="img/Imagen1.png" alt="">
+            <?php $ht_featured_img = get_option('ht_featured_img'); if ($ht_featured_img == "true") { ?>
+<?php if ( ( function_exists('has_post_thumbnail') ) && ( has_post_thumbnail() ) ) {
+$post_thumbnail_id = get_post_thumbnail_id();
+$post_thumbnail_url = wp_get_attachment_url( $post_thumbnail_id );
+?>
+<div class="post-image">
+<img title="image title" alt="thumb image" class="wp-post-image" src="<?php echo $post_thumbnail_url; ?>" style="width:100%; height:auto;">
+</div>
+<?php } ?>
+<?php } ?>
             </div>
             <div class="col-md-12 ms-4 row text-start">
                 <div class="mt-3 texto-gris col-12 col-md-8">
