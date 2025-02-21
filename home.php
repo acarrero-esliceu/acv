@@ -5,7 +5,7 @@
                     <h1 class="titulo">Today's picks</h1>
                 </div>
                 <div class="col-12 text-center mt-5 ps-4 title-description">
-                    <img class="mt-4 mb-5 align-items-center img-fluid" src="img/cultura.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="/wp-content/themes/acv/img/cultura.png" alt="">
                     <div class="text-start mt-4">
                         <div class="row">
                             <div class="col-2">

@@ -5,7 +5,7 @@
                     <h1 class="titulo">Today's picks</h1>
                 </div>
                 <div class="col-12 text-center mt-5 ps-4 title-description">
-                    <img class="mt-4 mb-5 align-items-center img-fluid" src="img/welcome.png" alt="">
+                    <img class="mt-4 mb-5 align-items-center img-fluid" src="/wp-content/themes/acv/img/welcome.png" alt="">
                 </div>
                 <div class="col-12 text-start">
                     <div class="row">
@@ -34,7 +34,7 @@
         <div class="container mx-auto p-default2">
             <div class="row align-items-start g-5 justify-content-center">
                 <div class="col-md-5">
-                    <img src="img/Imagen1.png" class="img-fluid" alt="">
+                    <img src="/wp-content/themes/acv/img/Imagen1.png" class="img-fluid" alt="">
                     <div class="row">
                         <div class="col-4">
                             <button class="btn btn-outline-info boton rounded-pill mt-4">ideas</button>
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <img src="img/imagen2.png" class="img-fluid" alt="">
+                    <img src="/wp-content/themes/acv/img/imagen2.png" class="img-fluid" alt="">
                     <div class="row">
                         <div class="col-4">
                             <button class="btn btn-outline-info boton rounded-pill mt-4">ideas</button>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <img src="img/imagen3.png" class="img-fluid" alt="">
+                        <img src="/wp-content/themes/acv/img/imagen3.png" class="img-fluid" alt="">
                         <div class="row">
                             <div class="col-4">
                                 <button class="btn btn-outline-info boton rounded-pill mt-4">technology</button>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="col-md-5">
-                        <img src="img/imagen4.png" class="img-fluid" alt="">
+                        <img src="/wp-content/themes/acv/img/imagen4.png" class="img-fluid" alt="">
                         <div class="row">
                             <div class="col-4">
                                 <button class="btn btn-outline-info boton rounded-pill mt-4">culture</button>
@@ -116,7 +116,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <img src="img/imagen5.png" class="img-fluid" alt="">
+                        <img src="/wp-content/themes/acv/img/imagen5.png" class="img-fluid" alt="">
                         <div class="row">
                             <div class="col-4">
                                 <button class="btn btn-outline-info boton rounded-pill mt-4">technology</button>
@@ -134,7 +134,7 @@
                         </div>
                     </div>
                     <div class="col-md-5">
-                        <img src="img/imagen6.png" class="img-fluid" alt="">
+                        <img src="/wp-content/themes/acv/img/imagen6.png" class="img-fluid" alt="">
                         <div class="row">
                             <div class="col-4">
                                 <button class="btn btn-outline-info boton rounded-pill mt-4">ideas</button>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-md-5">
-                        <img src="img/imagen7.png" class="img-fluid" alt="">
+                        <img src="/wp-content/themes/acv/img/imagen7.png" class="img-fluid" alt="">
                         <div class="row">
                             <div class="col-4">
                                 <button class="btn btn-outline-info boton rounded-pill mt-4">ideas</button>
@@ -172,7 +172,7 @@
                         </div>
                     </div>
                     <div class="col-md-5">
-                        <img src="img/imagen8.png" class="img-fluid" alt="">
+                        <img src="/wp-content/themes/acv/img/imagen8.png" class="img-fluid" alt="">
                         <div class="row">
                             <div class="col-4">
                                 <button class="btn btn-outline-info boton rounded-pill mt-4">technology</button>
