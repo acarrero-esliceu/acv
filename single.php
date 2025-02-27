@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="col-md-12 mt-5 ps-4 title-description ms-2 mb-5 text-start">
-                <img class="mt-4 mb-5 img-fluid" src="/wp-content/themes/acv/ñimg/Imagen1.png" alt="">
+                <img class="mt-4 mb-5 img-fluid" src="/wp-content/themes/acv/img/Imagen1.png" alt="">
             </div>
             <div class="col-md-12 ms-4 row text-start">
                 <div class="mt-3 texto-gris col-12 col-md-8">
