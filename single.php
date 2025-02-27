@@ -14,16 +14,7 @@
                 </div>
             </div>
             <div class="col-md-12 mt-5 ps-4 title-description ms-2 mb-5 text-start">
-            <?php $ht_featured_img = get_option('ht_featured_img'); if ($ht_featured_img == "true") { ?>
-<?php if ( ( function_exists('has_post_thumbnail') ) && ( has_post_thumbnail() ) ) {
-$post_thumbnail_id = get_post_thumbnail_id();
-$post_thumbnail_url = wp_get_attachment_url( $post_thumbnail_id );
-?>
-<div class="post-image">
-<img title="image title" alt="thumb image" class="wp-post-image" src="<?php echo $post_thumbnail_url; ?>" style="width:100%; height:auto;">
-</div>
-<?php } ?>
-<?php } ?>
+                <img class="mt-4 mb-5 img-fluid" src="/wp-content/themes/acv/ñimg/Imagen1.png" alt="">
             </div>
             <div class="col-md-12 ms-4 row text-start">
                 <div class="mt-3 texto-gris col-12 col-md-8">
@@ -47,7 +38,7 @@ $post_thumbnail_url = wp_get_attachment_url( $post_thumbnail_id );
                     <h2>Related Posts</h2>
                 </div>
                 <div class="col-md-5 text-start mb-4">
-                    <img src="img/imagen9.png" class="img-fluid" alt="">
+                    <img src="/wp-content/themes/acv/img/imagen9.png" class="img-fluid" alt="">
                     <div class="row">
                         <div class="col-4">
                             <button class="btn btn-outline-info boton rounded-pill mt-4">technology</button>
@@ -65,7 +56,7 @@ $post_thumbnail_url = wp_get_attachment_url( $post_thumbnail_id );
                     </div>
                 </div>
                 <div class="col-md-5 text-start mb-4">
-                    <img src="img/imagen10.png" class="img-fluid" alt="">
+                    <img src="/wp-content/themes/acv/img/imagen10.png" class="img-fluid" alt="">
                     <div class="row">
                         <div class="col-4">
                             <button class="btn btn-outline-info boton rounded-pill mt-4">technology</button>
